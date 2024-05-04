@@ -1,4 +1,4 @@
-Duplicate of https://github.com/Szaki/XiaomiADBFastbootTools.git
+l;Duplicate of https://github.com/Szaki/XiaomiADBFastbootTools.git
 
 
 
